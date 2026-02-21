@@ -1,0 +1,13 @@
+[package]
+name = "gradient_descent_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.29"
+egui = "0.29"
+egui_plot = "0.29"
+meval = "0.2"
+nalgebra = "0.33"
+anyhow = "1.0"
+thiserror = "1.0"

@@ -1,0 +1,10 @@
+/Users/artyem.petrov/dev/university/4-1/methods-of-optimization-and-operations-research/lab01/target/debug/deps/glow-dc2688b9f291b924.d: /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/lib.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/version.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/native.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/gl46.rs
+
+/Users/artyem.petrov/dev/university/4-1/methods-of-optimization-and-operations-research/lab01/target/debug/deps/libglow-dc2688b9f291b924.rlib: /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/lib.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/version.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/native.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/gl46.rs
+
+/Users/artyem.petrov/dev/university/4-1/methods-of-optimization-and-operations-research/lab01/target/debug/deps/libglow-dc2688b9f291b924.rmeta: /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/lib.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/version.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/native.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/gl46.rs
+
+/Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/lib.rs:
+/Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/version.rs:
+/Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/native.rs:
+/Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/glow-0.14.2/src/gl46.rs:

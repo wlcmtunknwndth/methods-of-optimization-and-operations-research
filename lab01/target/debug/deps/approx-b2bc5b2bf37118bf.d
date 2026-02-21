@@ -1,0 +1,9 @@
+/Users/artyem.petrov/dev/university/4-1/methods-of-optimization-and-operations-research/lab01/target/debug/deps/approx-b2bc5b2bf37118bf.d: /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/lib.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/abs_diff_eq.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/relative_eq.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/ulps_eq.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/macros.rs
+
+/Users/artyem.petrov/dev/university/4-1/methods-of-optimization-and-operations-research/lab01/target/debug/deps/libapprox-b2bc5b2bf37118bf.rmeta: /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/lib.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/abs_diff_eq.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/relative_eq.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/ulps_eq.rs /Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/macros.rs
+
+/Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/lib.rs:
+/Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/abs_diff_eq.rs:
+/Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/relative_eq.rs:
+/Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/ulps_eq.rs:
+/Users/artyem.petrov/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.5.1/src/macros.rs:
